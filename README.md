@@ -89,9 +89,6 @@ Feel free to modify any configuration file to suit your preferences:
 - **Keybindings**: Modify the keybinding section in `i3/config`
 - **Status bar**: Edit widgets in `i3/i3blocks.conf`
 
-## 📷 Screenshots
-
-*Add your screenshots here*
 
 ## 🔗 Resources
 
@@ -107,5 +104,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <p align="center">
-  <i>Made with ❤️ and lots of caffeine</i>
+  <i>Kindly open an issue if you have any question please 😊.</i>
 </p>
